@@ -103,10 +103,8 @@ console.log("reverse sort fav foods ",favFood);
 //     putting the word "and" between each item.
 //     eg "tacos and pizza and pasta". Log the string.
 
-//for (let j = 0; j<favFood.length-1; j++){
- //   favFood[j] = favFood[j] + " and";   
-//}
-//console.log("updated array 2.0: ", favFood.join(' '));
+
+console.log("updated array 2.0: ", favFood.join(' and '));
 
 
 
